@@ -1,0 +1,7 @@
+.image-fluid {
+    width: min(200px, 100%);
+}
+
+.square {
+    aspect-ratio: 1 / 1;
+}
