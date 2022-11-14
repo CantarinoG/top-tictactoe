@@ -8,6 +8,7 @@
 
 .b {
     border: 1px solid black;
+    cursor: pointer;
 }
 
 .b1 {
@@ -48,4 +49,8 @@
 
 .display-1 {
     font-size: calc(5rem + 8vw);
+}
+
+.active {
+    box-shadow: 0 0 20px 20px lightblue;
 }
